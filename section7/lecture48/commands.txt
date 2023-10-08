@@ -1,0 +1,6 @@
+Deploy Node.js Lambda functions with .zip file archives
+
+Run Command:
+
+windows
+Compress-Archive index.js function.zip
